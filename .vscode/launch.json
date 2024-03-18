@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HelloinApplication",
+            "request": "launch",
+            "mainClass": "helloin.src.main.java.com.helloout.helloin.HelloinApplication",
+            "projectName": "springBootProject1_dec0e2e4"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.spring_boot.Main",
+            "projectName": "spring_boot"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-App<spring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.spring.App",
+            "projectName": "spring",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
